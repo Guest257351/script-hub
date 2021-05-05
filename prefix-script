@@ -3,4 +3,3 @@
 color 0f
 title script-hub
 echo select a number to open it's corisponding script
-set /p hub_menu_option=option:
