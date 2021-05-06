@@ -1,1 +1,1 @@
-if %choice_num% equ %CN% goto %script_name%
+if %choice_num% equ REPnum goto REPname
